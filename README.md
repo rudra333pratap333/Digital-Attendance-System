@@ -12,6 +12,12 @@ Face Recognition : It is the technique of identifying or verifying the identity 
 
 After calculating it generates a feature vector whose we call face encodings. It will help us to identify the person. <br />
 
-![face_encodings](face_encodings_image.png)
+![face_encodings](face_encodings_image.png) <br />
+Here we uses the RDBMS (MYSQL) for maintaining the database of the employee details and "pymysql" python library for the manage and doing transaction through program.
+and finally develope a Flask applicatiion for the same.
+  
+  
+
+        
 
 
